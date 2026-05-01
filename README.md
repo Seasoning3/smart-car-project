@@ -22,24 +22,30 @@
 
 **김민성 [[Seasoning3](https://github.com/Seasoning3)]**
 - 회로 설계
+- 회로 구성
+- 차체 설계
 - 차체 제작
-- 테스트 환경 제작
+- 웹 프로그래밍
+- 차량 프로그래밍
 - 아카이빙
 
-**박기범**
+**박기범 [[gibeom308](https://github.com/gibeom308)]**
 - 차체 설계
+- 차체 제작
 - 회로 구성
 - 테스트 환경 제작
 - 아카이빙
 
-**백영재**
+**백영재 [[Paek Yeongjae](https://github.com/paekyeongjae)]**
 - 차체 설계
+- 차체 제작
 - 회로 구성
 - 테스트 환경 제작
 - 아카이빙
 
-**전승민**
-- 프로그래밍
+**전승민 [[tmdals914](https://github.com/tmdals914)]**
 - 회로 구성
+- 웹 프로그래밍
+- 차량 프로그래밍
 - 테스트 환경 제작
 - 아카이빙
